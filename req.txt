@@ -1,0 +1,12 @@
+astroid==2.3.3
+colorama==0.4.3
+ecdsa==0.15
+esptool==2.8
+isort==4.3.21
+mccabe==0.6.1
+paho-mqtt==1.5.0
+pyaes==1.6.1
+pylint==2.4.4
+pyserial==3.4
+typed-ast==1.4.1
+wrapt==1.11.2
